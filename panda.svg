@@ -183,10 +183,7 @@
   </text>
   
   <!-- Funny emoji subtitle -->
-  <text x="200" y="50" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#555">
-    <tspan>🎋 Eat. Sleep. Code. Repeat. 💻</tspan>
-  </text>
-  
+
   <!-- Wiggling stars for extra fun -->
   <g>
     <path d="M30,30 L35,20 L40,30 L30,25 L40,25 Z" fill="#FFD700">
