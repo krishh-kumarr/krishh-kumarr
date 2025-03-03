@@ -2,7 +2,10 @@
 # 💫 About Me:
 Hi, I'm Krish Kumar 👋<br>I'm a passionate Computer Science student at SRM University, with a strong interest in coding and problem-solving. I enjoy building innovative projects that blend technology with real-world applications. From hackathons to personal projects, I'm constantly exploring new ways to improve society through tech. My skills range across multiple programming languages and frameworks, and I’m always open to collaborating on exciting ventures.<br><br>🔭 Currently working on web and mobile applications using React, Flask, and Android Studio<br>🌱 Learning about blockchain and AI for deeper integration into my projects<br>⚡ Hackathon winner in the Red Bull Basement event 🏆<br>🚀 Aspiring to launch my own tech startup
 
-  <img src="krish-tech-logo.svg" alt="KRISH Tech Logo" width="300">       <img src="kumar.svg" alt="KRISH Tech Logo" width="300"> <img src="code1.svg" alt="Panda Logo" width="800">
+
+  <img src="krish-tech-logo.svg" alt="KRISH Tech Logo" width="300">       <img src="kumar.svg" alt="KRISH Tech Logo" width="300">  
+  <img src="panda-rage.gif" alt="Panda Coding Rage" width="600">        <img src="code1.svg" alt="Panda Logo" width="400"> 
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__krish___2005) 
