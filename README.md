@@ -4,7 +4,7 @@ Hi, I'm Krish Kumar 👋<br>I'm a passionate Computer Science student at SRM Uni
 
 
   <img src="krish-tech-logo.svg" alt="KRISH Tech Logo" width="300">       <img src="kumar.svg" alt="KRISH Tech Logo" width="300">  
-  <img src="panda-rage.gif" alt="Panda Coding Rage" width="600">        <img src="code1.svg" alt="Panda Logo" width="600"> 
+  <img src="panda-rage.gif" alt="Panda Coding Rage" width="400">        <img src="code1.svg" alt="Panda Logo" width="400"> 
 
 
 ## 🌐 Socials:
