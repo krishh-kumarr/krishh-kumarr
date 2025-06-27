@@ -8,7 +8,6 @@
   <img src="kumar.svg" alt="KUMAR Logo" width="300" style="margin: 10px;">
 </div>
 
-**"What if Tony Stark coded in college? He didn't. But I do."**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Racing+Sans+One&size=22&duration=2000&pause=1000&color=FF1801&center=true&vCenter=true&width=600&height=80&lines=Computer+Science+%40+SRM+University;Full+Stack+Developer;Hackathon+Champion+%F0%9F%8F%86;Red+Bull+Basement+Winner;Racing+to+Build+the+Future+%F0%9F%8F%8E%F0%9F%9A%80)](https://git.io/typing-svg)
 
