@@ -214,31 +214,10 @@ I'm a **Computer Science warrior** at SRM University, wielding keyboards instead
 
 <!-- Social media badges with F1 team colors -->
 [![Instagram](https://img.shields.io/badge/Instagram-191970?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF1801)](https://instagram.com/__krish___2005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-191970?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF1801)](your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-191970?style=for-the-badge&logo=twitter&logoColor=white&labelColor=FF1801)](your-twitter)
-[![Email](https://img.shields.io/badge/Email-191970?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF1801)](mailto:your-email)
-
 </div>
 
 ---
 
-## 💝 **SUPPORT THE MISSION**
-
-<div align="center">
-
-If my work helps you build something awesome, consider:
-
-<!-- Support buttons with F1/Marvel theme -->
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-191970?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00&labelColor=FF1801)](your-coffee-link)
-[![Sponsor](https://img.shields.io/badge/Sponsor-191970?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=FF1801)](your-sponsor-link)
-
-**"Powered by caffeine, driven by passion, fueled like an F1 engine!"** ☕🏎️
-
-</div>
-
----
-
-<div align="center">
 
 ## 🏎️ **TOP CONTRIBUTED REPOSITORIES**
 
