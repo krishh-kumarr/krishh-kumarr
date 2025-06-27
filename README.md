@@ -257,10 +257,6 @@ If my work helps you build something awesome, consider:
 
 <p style="font-size: 20px;">🏁 🏎️ 🦸‍♂️ 💻 ⚡</p>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=krishh-kumarr&icon=3&color=1)](https://visitcount.itsvg.in)
-
-*Last updated: June 2025 | Made with ❤️ and lots of ☕*
-
 </div>
 
 ---
