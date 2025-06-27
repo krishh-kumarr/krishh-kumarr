@@ -30,9 +30,9 @@ I'm a **Computer Science warrior** at SRM University, wielding keyboards instead
 
 <div align="center">
 
-[![🚀 PORTFOLIO](https://img.shields.io/badge/🚀_PORTFOLIO-191970?style=for-the-badge&logo=portfolio&logoColor=white&labelColor=FF1801)]([https://portfolio2-three-lime.vercel.app/])
+[![🚀 PORTFOLIO](https://img.shields.io/badge/🚀_PORTFOLIO-191970?style=for-the-badge&logo=portfolio&logoColor=white&labelColor=FF1801)](https://portfolio2-three-lime.vercel.app/)
 [![💼 HIRE ME](https://img.shields.io/badge/💼_HIRE_ME-191970?style=for-the-badge&logo=handshake&logoColor=white&labelColor=FF1801)](mailto:krishneerajkumar@gmail.com)
-[![☕ BUY ME COFFEE](https://img.shields.io/badge/☕_BUY_ME_COFFEE-191970?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=FF1801)](your-coffee-link)
+[![🔗 LINKEDIN](https://img.shields.io/badge/🔗_LINKEDIN-191970?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF1801)](https://www.linkedin.com/in/krish-kumar-1a119728a/)
 
 </div>
 
