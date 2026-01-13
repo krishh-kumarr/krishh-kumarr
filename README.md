@@ -1,24 +1,16 @@
 
 <div align="center">
 
-### *The Code Whisperer | Hackathon Hero | Future Tech Leader*
-
 
 <div align="center">
   <img src="krish-logo.svg" alt="KRISH Tech Logo" width="300" style="margin: 10px;">
   <img src="kumar.svg" alt="KUMAR Logo" width="300" style="margin: 10px;">
 </div>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Racing+Sans+One&size=22&duration=2000&pause=1000&color=FF1801&center=true&vCenter=true&width=600&height=80&lines=Computer+Science+%40+SRM+University;Full+Stack+Developer;Hackathon+Champion+%F0%9F%8F%86;Red+Bull+Basement+Winner;Racing+to+Build+the+Future+%F0%9F%8F%8E%F0%9F%9A%80)](https://git.io/typing-svg)
-
 </div>
 
 ---
 
-<div align="center">
-  <!-- F1 checkered flag separator -->
-  <p>🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁</p>
 </div>
 
 ## 🎯 The Origin
@@ -33,17 +25,12 @@ Designing and developing technology-driven projects that create meaningful impac
 <div align="center">
 
 [![🚀 PORTFOLIO](https://img.shields.io/badge/🚀_PORTFOLIO-191970?style=for-the-badge&logo=portfolio&logoColor=white&labelColor=FF1801)](https://portfolio2-three-lime.vercel.app/)
-[![💼 HIRE ME](https://img.shields.io/badge/💼_HIRE_ME-191970?style=for-the-badge&logo=handshake&logoColor=white&labelColor=FF1801)](mailto:krishneerajkumar@gmail.com)
 [![🔗 LINKEDIN](https://img.shields.io/badge/🔗_LINKEDIN-191970?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF1801)](https://www.linkedin.com/in/krish-kumar-1a119728a/)
 
 </div>
 
 ---
 
-<div align="center">
-  <!-- Infinity stones divider -->
-  <p>💎💎💎💎💎💎 <span style="color:#FF1801">POWER</span> • <span style="color:#F1C40F">MIND</span> • <span style="color:#3498DB">SPACE</span> • <span style="color:#8E44AD">REALITY</span> • <span style="color:#2ECC71">TIME</span> • <span style="color:#FF9800">SOUL</span> 💎💎💎💎💎💎</p>
-</div>
 
 ## ⚡ **POWER-UPS & ABILITIES**
 
@@ -112,27 +99,7 @@ Designing and developing technology-driven projects that create meaningful impac
 
 </div>
 
----
 
-<div align="center">
-  <!-- F1 flag emoji animation -->
-  <p>🏁 🏎️ 💨 🏁 🏎️ 💨 🏁 🏎️ 💨 🏁 🏎️ 💨 🏁 🏎️ 💨 🏁</p>
-</div>
-
-## 📊 **BATTLE STATISTICS**
-
-<div align="center">
-
-<!-- Custom styling inspired by F1 timing screens -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishh-kumarr&theme=dark&hide_border=true&background=191970&stroke=FF1801&ring=FF1801&fire=FF1801&currStreakLabel=FF1801" width="49%">
-<img src="https://github-readme-stats.vercel.app/api?username=krishh-kumarr&show_icons=true&theme=dark&hide_border=true&bg_color=191970&title_color=FF1801&icon_color=FF1801&text_color=FFFFFF" width="49%">
-
-<!-- Language stats with F1 team colors -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh-kumarr&layout=compact&theme=dark&hide_border=true&bg_color=191970&title_color=FF1801&text_color=FFFFFF" width="70%">
-
-</div>
-
----
 
 <div align="center">
   <!-- Marvel themed divider using emojis -->
@@ -160,22 +127,9 @@ Designing and developing technology-driven projects that create meaningful impac
 └─ 🎪 Hackathon Mentor
 ```
 
-<!-- Trophy display inspired by F1 podium -->
-<img src="https://github-profile-trophy.vercel.app/?username=krishh-kumarr&theme=darkhub&no-frame=true&no-bg=true&column=7&title=Followers,Stars,Commits,PR,Issues,Repositories,MultiLanguage" width="100%">
 
 </div>
 
----
-
-## 🎨 **FEATURED PROJECTS**
-
-<div align="center">
-
-### 🚀 **PROJECT SHOWCASE COMING SOON**
-*Currently cooking up some epic repositories that will blow your mind!*
-
-<!-- F1/Marvel themed emojis -->
-<p style="font-size: 30px;">🏎️ 🦸‍♂️ 🏆 ⚡ 🛠️ 💻</p>
 
 **Stay tuned for:**
 - 🌐 Full-Stack Web Applications
@@ -221,11 +175,6 @@ Designing and developing technology-driven projects that create meaningful impac
 ---
 
 
-## 🏎️ **TOP CONTRIBUTED REPOSITORIES**
-
-![](https://github-contributor-stats.vercel.app/api?username=krishh-kumarr&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=191970)
-
----
 
 ### 💭 **DAILY INSPIRATION**
 
