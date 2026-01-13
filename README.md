@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ### *The Code Whisperer | Hackathon Hero | Future Tech Leader*
@@ -20,13 +21,14 @@
   <p>🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁🏁</p>
 </div>
 
-## 🎯 **THE ORIGIN STORY**
+## 🎯 The Origin
 
-> *Once upon a time, in a university far, far away...*
+I am a **Computer Science undergraduate at SRM University** with a strong interest in building reliable, real-world software systems. My journey has been shaped by hands-on development, competitive hackathons, and a constant drive to learn and improve.
 
-I'm a **Computer Science warrior** at SRM University, wielding keyboards instead of swords and debugging instead of battling dragons. When I'm not conquering hackathons or winning **Red Bull Basement** 🏆, I'm busy crafting digital magic that would make even Doctor Strange jealous.
+I have actively participated in innovation challenges, including **Red Bull Basement**, where I focused on turning ideas into practical, scalable solutions through teamwork and problem-solving.
 
-**Current Mission:** Building innovative projects that blend technology with real-world impact (and occasionally breaking things in the process... it's a feature, not a bug! 🐛)
+**Current Focus:**  
+Designing and developing technology-driven projects that create meaningful impact, while continuously refining my technical and architectural skills.
 
 <div align="center">
 
