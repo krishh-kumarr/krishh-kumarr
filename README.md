@@ -13,20 +13,49 @@
 
 </div>
 
-## 🎯 The Origin
+### 👋 About Me
 
-I am a **Computer Science undergraduate at SRM University** with a strong interest in building reliable, real-world software systems. My journey has been shaped by hands-on development, competitive hackathons, and a constant drive to learn and improve.
+Computer Science undergraduate focused on building scalable, real-world software systems through hands-on development, competitive hackathons, and continuous learning.
 
-I have actively participated in innovation challenges, including **Red Bull Basement**, where I focused on turning ideas into practical, scalable solutions through teamwork and problem-solving.
-
-**Current Focus:**  
-Designing and developing technology-driven projects that create meaningful impact, while continuously refining my technical and architectural skills.
+| Category | Details |
+|--------|--------|
+| **Name** | Krish Kumar |
+| **Education** | B.Tech in Computer Science, SRM University |
+| **Experience** | Samsung R&D Intern (Virtual) |
+| **Programs** | Apple iOS Student Developer Program |
+| **Current Work** | Developing an iOS application at the iOS Development Centre powered by Infosys & Apple |
+| **Technical Involvement** | Member, IEEE Computer Society |
+| **Awards & Achievements** | Winner, Red Bull Basement International Hackathon (2024)<br>Academic Excellence Award, SRM University (2024–2025)<br>Participant, Smart India Hackathon (2024, 2025) |
+| **Soft Skills** | Leadership (team management, delegation, motivation)<br>Communication (technical writing, presentations)<br>Problem-solving (analytical thinking, root-cause analysis)<br>Adaptability (rapid learning, working with ambiguity)<br>Collaboration (cross-functional teamwork, active listening) |
 
 <div align="center">
+
 
 [![🚀 PORTFOLIO](https://img.shields.io/badge/🚀_PORTFOLIO-191970?style=for-the-badge&logo=portfolio&logoColor=white&labelColor=FF1801)](https://portfolio2-three-lime.vercel.app/)
 [![🔗 LINKEDIN](https://img.shields.io/badge/🔗_LINKEDIN-191970?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF1801)](https://www.linkedin.com/in/krish-kumar-1a119728a/)
 
+</div>
+
+---
+---
+
+<div align="center">
+  <p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</div>
+
+## 📌 **PROJECTS**
+
+| Project | Description | Year |
+|------|------------|------|
+| **LLM-Based Query Optimization System** | Used large language models to restructure and optimize SQL queries. Achieved **65% faster execution time** using local database optimisations. | **2025–Present** |
+| **Movify – AI Recommendation Platform** | Built a movie recommender using collaborative filtering and content-based analysis. Trained ML models locally for personalized recommendations. | **2024** |
+| **Smart Supply Chain Manager (Frontend)** | Developed a Flutter application for real-time inventory tracking using an **MQTT-based IoT system**. | **2025** |
+| **VibeOut – Emotion-Based Fitness Companion** | Built an AI-powered app recommending workouts based on real-time emotion detection with secure authentication and privacy-focused design. | **2024** |
+| **OnePass – School Database Management System** | Developed a full-stack application for managing student records, academics, and administrative data for schools. | **2024** |
+| **Task Prioritizer – Web Productivity App** | Built a web-based task prioritization and to-do list application to organize tasks efficiently and improve productivity. | **2024** |
+
+<div align="center">
+  <p>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 </div>
 
 ---
@@ -98,34 +127,6 @@ Designing and developing technology-driven projects that create meaningful impac
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 </div>
-
-
-
-<div align="center">
-  <!-- Marvel themed divider using emojis -->
-  <p>⚡️ 🛡️ 🔨 👊 ⚡️ 🛡️ 🔨 👊 ⚡️ 🛡️ 🔨 👊 ⚡️ 🛡️ 🔨 👊</p>
-</div>
-
-## 🏆 **ACHIEVEMENT UNLOCKED**
-
-<div align="center">
-
-```
-🏎️ HACKATHON VICTORIES
-├─ 🥇 Red Bull Basement Winner
-├─ 🚀 Multiple Competition Victories
-└─ 💡 Innovation Awards
-
-🎓 ACADEMIC EXCELLENCE
-├─ 💻 Computer Science @ SRM University
-├─ 📚 Continuous Learning Enthusiast
-└─ 🔬 Research & Development Focus
-
-🌟 COMMUNITY IMPACT
-├─ 🤝 Open Source Contributor
-├─ 📢 Tech Community Builder
-└─ 🎪 Hackathon Mentor
-```
 
 
 </div>
