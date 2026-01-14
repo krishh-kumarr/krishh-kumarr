@@ -48,8 +48,8 @@ Computer Science undergraduate focused on building scalable, real-world software
 | Project | Description | Year |
 |------|------------|------|
 | **LLM-Based Query Optimization System** | Used large language models to restructure and optimize SQL queries. Achieved **65% faster execution time** using local database optimisations. | **2025–Present** |
-| **Movify – AI Recommendation Platform** | Built a movie recommender using collaborative filtering and content-based analysis. Trained ML models locally for personalized recommendations. | **2024** |
-| **Smart Supply Chain Manager (Frontend)** | Developed a Flutter application for real-time inventory tracking using an **MQTT-based IoT system**. | **2025** |
+| **Movify –  Recommendation Platform** | Built a movie recommender using collaborative filtering and content-based analysis. | **2024** |
+| **Smart Supply Chain Manager (Frontend)** | Developed a Flutter application for real-time inventory tracking  | **2025** |
 | **VibeOut – Emotion-Based Fitness Companion** | Built an AI-powered app recommending workouts based on real-time emotion detection with secure authentication and privacy-focused design. | **2024** |
 | **OnePass – School Database Management System** | Developed a full-stack application for managing student records, academics, and administrative data for schools. | **2024** |
 | **Task Prioritizer – Web Productivity App** | Built a web-based task prioritization and to-do list application to organize tasks efficiently and improve productivity. | **2024** |
