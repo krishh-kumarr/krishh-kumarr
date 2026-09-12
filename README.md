@@ -20,7 +20,7 @@ Computer Science undergraduate focused on building scalable, real-world software
 |--------|--------|
 | **Name** | Krish Kumar |
 | **Education** | B.Tech in Computer Science, SRM University 3rd year CGPA 9.76/10 |
-| **Experience** | Samsung R&D Intern (Virtual) |
+| **Experience** | Samsung R&D Intern (Virtual) Excellence Award Winner|
 | **Programs** | Apple iOS Student Developer Program |
 | **Current Work** | Developing an iOS application at the iOS Development Centre powered by Infosys & Apple |
 | **Technical Involvement** | Member, IEEE Computer Society |
