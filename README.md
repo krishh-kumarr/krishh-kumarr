@@ -19,7 +19,7 @@ Computer Science undergraduate focused on building scalable, real-world software
 | Category | Details |
 |--------|--------|
 | **Name** | Krish Kumar |
-| **Education** | B.Tech in Computer Science, SRM University 3rd year CGPA 9.76/10 |
+| **Education** | B.Tech in Computer Science, SRM University 3rd year CGPA 9.81/10 |
 | **Experience** | Samsung R&D Intern (Virtual) |
 | **Programs** | Apple iOS Student Developer Program |
 | **Current Work** | Developing an iOS application at the iOS Development Centre powered by Infosys & Apple |
@@ -46,7 +46,7 @@ Computer Science undergraduate focused on building scalable, real-world software
 
 | Project | Description | Year |
 |------|------------|------|
-| **LLM-Based Query Optimization System** | Used large language models to restructure and optimize SQL queries. Achieved **65% faster execution time** using local database optimisations. | **2025–Present** |
+| **LLM-Based Query Optimization System** | Used large language models to restructure and optimize SQL queries. Achieved **65% faster execution time** using local database optimisations. | **2025–2026** |
 | **Movify –  Recommendation Platform** | Built a movie recommender using collaborative filtering and content-based analysis. | **2024** |
 | **Smart Supply Chain Manager (Frontend)** | Developed a Flutter application for real-time inventory tracking  | **2025** |
 | **VibeOut – Emotion-Based Fitness Companion** | Built an AI-powered app recommending workouts based on real-time emotion detection with secure authentication and privacy-focused design. | **2024** |
