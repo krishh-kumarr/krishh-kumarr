@@ -4,8 +4,8 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Krish Kumar: Samsung PRISM Excellence Award 2026, AWS Certified AI Practitioner, Red Bull Basement Hackathon winner, B.Tech CSE at SRM University with a 9.81 CGPA" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" alt="Animated cartoon avatar of Krish popping out of a portal, switching between confident, laughing, thoughtful, surprised and excited expressions. A speech bubble cycles through highlights: shipping iOS apps in Swift, winning the Red Bull Basement Hackathon, cutting SQL execution time by 32%, the Samsung PRISM Excellence Award 2026, and AWS Certified AI Practitioner." width="100%">
 </picture>
 
 I study computer science at SRM University, Chennai (2023–2027), and I build iOS apps, data pipelines and ML systems. Most recently I was an iOS Developer Intern at Infosys, working on a fleet management system.
@@ -52,7 +52,7 @@ I study computer science at SRM University, Chennai (2023–2027), and I build i
 - Worked with stakeholders to map supply chain workflows and deliver on time.
 </details>
 
-## Projects
+## <img src="assets/thoughtful.webp" width="36" height="40" alt="" align="top"> Projects
 
 <details>
 <summary><b>LLM-Powered SQL Query Optimization</b>, 2025–26. Python, SQL, MySQL, NLP, ML</summary>
