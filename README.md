@@ -11,98 +11,84 @@ I'm in my B.Tech (2023–2027) and I build iOS apps, data pipelines and ML syste
   <img src="https://skillicons.dev/icons?i=swift,python,c,cpp,js,mysql,react,nextjs,nodejs,flask,tensorflow,opencv,aws,git,github&perline=15" alt="Swift, Python, C, C++, JavaScript, MySQL, React, Next.js, Node.js, Flask, TensorFlow, OpenCV, AWS, Git, GitHub">
 </p>
 
-## Timeline
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
-  <img src="assets/timeline-light.svg" alt="Timeline: Samsung PRISM Excellence Award 2026; iOS Developer Intern at Infosys, Mar–Apr 2026; iOS Student Developer Program 2025–26; Samsung PRISM Virtual R&D Intern, Apr–Aug 2025; Application Developer Intern at Unicum Finance Consultant, Mar–Apr 2025; Academic Excellence Award 2024–25; IEEE Computer Society 2024–26; Red Bull Basement Hackathon winner 2024; started B.Tech at SRM in 2023" width="100%">
-</picture>
-
 ## Experience
 
-<details>
-<summary><b>Infosys</b>, iOS Developer Intern, Mysuru, Mar–Apr 2026</summary>
-<br>
+**iOS Developer Intern, Infosys** <sub>Mysuru, Mar–Apr 2026</sub><br>
+Built features for a fleet management system, with structured data handling, API integration and performance testing in an Agile team.
 
-- Built features for a fleet management system, turning business requirements into technical solutions with structured data handling and API integration.
-- Improved data retrieval and app responsiveness through data quality checks, structured pipelines and performance testing.
-- Worked in an Agile team with sprint reviews and code reviews.
-</details>
+**Virtual R&D Intern, Samsung PRISM** <sub>Chennai, Apr–Aug 2025</sub><br>
+Analysed SQL pipelines to find database bottlenecks, and built data quality and query optimization tooling.
 
-<details>
-<summary><b>Samsung PRISM</b>, Virtual R&D Intern, Chennai, Apr–Aug 2025</summary>
-<br>
-
-- Designed and analysed SQL data pipelines, finding database bottlenecks through query analysis and indexing strategies.
-- Used statistical analysis and preprocessing to study query execution patterns and improve execution efficiency.
-- Built data quality frameworks and optimization tooling.
-</details>
-
-<details>
-<summary><b>Unicum Finance Consultant</b>, Application Developer Intern, Chennai, Mar–Apr 2025</summary>
-<br>
-
-- Built an inventory and product tracking app for supply chain distribution channels.
-- Added data visualization components and reporting dashboards for business decisions.
-- Worked with stakeholders to map supply chain workflows and deliver on time.
-</details>
+**Application Developer Intern, Unicum Finance Consultant** <sub>Chennai, Mar–Apr 2025</sub><br>
+Built an inventory and product tracking app with reporting dashboards for supply chain teams.
 
 ## <img src="assets/thoughtful.webp" width="36" height="40" alt="" align="top"> Projects
 
-<details>
-<summary><b>LLM-Powered SQL Query Optimization</b>, 2025–26. Python, SQL, MySQL, NLP, ML</summary>
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- End-to-end pipeline that uses NLP and a large language model to suggest SQL query improvements, trained on 10,000 examples.
-- Automates query rewriting and indexing recommendations with ML and regression analysis.
-- Across 500+ test queries, average execution time dropped by **32%**.
-</details>
+**LLM-Powered SQL Query Optimization**<br>
+An NLP and LLM pipeline that rewrites SQL queries and recommends indexes. Average execution time dropped 32% across 500+ test queries.<br>
+<sub>Python, SQL, MySQL, NLP, ML. 2025–26</sub>
 
-<details>
-<summary><b>ThreatSense</b>, multi-modal scam detection, 2024. Python, FastAPI, Next.js, ML</summary>
-<br>
+</td>
+<td width="50%" valign="top">
 
-- Classifies fraudulent messages and phishing URLs with ML models and NLP feature extraction.
-- Statistical risk scoring with an interactive dashboard for reviewing detections.
-</details>
+**ThreatSense**<br>
+Detects scam messages and phishing URLs with ML and NLP features, scored by a statistical risk model with a review dashboard.<br>
+<sub>Python, FastAPI, Next.js, ML. 2024</sub>
 
-<details>
-<summary><b>VibeOut</b>, emotion-aware fitness platform, 2024. React, Flask, OpenCV, TensorFlow</summary>
-<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Real-time facial expression analysis with OpenCV and TensorFlow feeds a personalized workout recommender.
-- React frontend on a Flask API, with voice and visual input to improve prediction accuracy.
-</details>
+**VibeOut**<br>
+A fitness app that reads facial expressions in real time with OpenCV and TensorFlow and recommends workouts to match.<br>
+<sub>React, Flask, OpenCV, TensorFlow. 2024</sub>
 
-<details>
-<summary><b>ParentBud</b>, iOS app, 2025. Swift</summary>
-<br>
+</td>
+<td width="50%" valign="top">
 
-- Data structures for profiles, behaviour tracking and activity logs to forecast child development milestones.
-- Daily check-ins and progress dashboards for parents.
-</details>
+**ParentBud**<br>
+An iOS app for parents with daily check-ins, activity logs and progress dashboards that track child development milestones.<br>
+<sub>Swift, iOS. 2025</sub>
 
-<details>
-<summary>More projects</summary>
-<br>
+</td>
+</tr>
+</table>
 
-| Project | What it is | Year |
-|---|---|---|
-| MindHeaven | iOS app for meditation and breathing exercises | 2025 |
-| CancerBlog | Website for research, case studies and clinical trial updates | 2024 |
-| IEEE CS SRMIST website | Club website with event management | 2023 |
-| Smart Task Prioritizer | Productivity and task management tool | 2023 |
-</details>
+<sub>Also built: MindHeaven, a meditation app for iOS (2025). CancerBlog, a research and clinical trials site (2024). The IEEE CS SRMIST club website (2023). Smart Task Prioritizer (2023).</sub>
 
-## Awards and certifications
+## Recognition
 
-| Awards | Certifications |
-|---|---|
-| Samsung PRISM Excellence Award, 2026 | AWS Certified AI Practitioner |
-| Academic Excellence Award, SRM University, 2024–25 | GitHub Foundations |
-| Performance-based scholarship, 3rd year | SAP Data Analytics Cloud |
-| Red Bull Basement Hackathon winner, 2024 | HackerRank Python (Basic) |
-| Smart India Hackathon internal winner | Beginning C++ |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Awards**
+- Samsung PRISM Excellence Award, 2026
+- Academic Excellence Award, SRM University, 2024–25
+- Performance-based scholarship, 3rd year
+- Red Bull Basement Hackathon winner, 2024
+- Smart India Hackathon internal winner
+
+</td>
+<td width="50%" valign="top">
+
+**Certifications**
+- AWS Certified AI Practitioner
+- GitHub Foundations
+- SAP Data Analytics Cloud
+- HackerRank Python (Basic)
+- Beginning C++
+
+</td>
+</tr>
+</table>
+
+Member of the iOS Student Developer Program at SRM IST (2025–26) and the IEEE Computer Society, SRM (2024–26).
 
 <details>
 <summary>Full skill list</summary>
