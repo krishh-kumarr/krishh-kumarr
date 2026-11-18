@@ -1,14 +1,9 @@
-<p align="center">
-  <img src="krish-logo.svg" alt="Krish" width="260">
-  <img src="kumar.svg" alt="Kumar" width="260">
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" alt="Animated cartoon avatar of Krish popping out of a portal, switching between confident, laughing, thoughtful, surprised and excited expressions. A speech bubble cycles through highlights: shipping iOS apps in Swift, winning the Red Bull Basement Hackathon, cutting SQL execution time by 32%, the Samsung PRISM Excellence Award 2026, and AWS Certified AI Practitioner." width="100%">
+  <img src="assets/hero-light.svg" alt="Krish Kumar, computer science at SRM University, Chennai. Animated cartoon avatar popping out of a portal, switching between confident, laughing, thoughtful, surprised and excited expressions. A speech bubble cycles through highlights: shipping iOS apps in Swift, winning the Red Bull Basement Hackathon, cutting SQL execution time by 32%, the Samsung PRISM Excellence Award 2026, and AWS Certified AI Practitioner." width="100%">
 </picture>
 
-I study computer science at SRM University, Chennai (2023–2027), and I build iOS apps, data pipelines and ML systems. Most recently I was an iOS Developer Intern at Infosys, working on a fleet management system.
+I'm in my B.Tech (2023–2027) and I build iOS apps, data pipelines and ML systems. Most recently I was an iOS Developer Intern at Infosys, working on a fleet management system.
 
 [Portfolio](https://portfolio2-three-lime.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/krish-kumar-1a119728a/) · [Instagram](https://instagram.com/__krish___2005)
 
